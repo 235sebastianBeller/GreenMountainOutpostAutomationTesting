@@ -25,8 +25,6 @@ Desarrollar un BVT cuya ejecución no supere los 10 minutos, asegurando retroali
 
 ## Autores  
 - Sebastian Beller  
-- Susan Céspedes  
-- Wilner Mena  
 
 ## Derechos de Autor  
 © 2024 Todos los derechos reservados. Este proyecto es propiedad de los autores mencionados.
